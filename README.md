@@ -3,9 +3,11 @@
 This repo serves as the one stop shop for discussing how shit our bot is.
 Thanks!
 
-## Issue Template
+- [**Discord Server**](https://mixtape.systems/discord)
 
-*TBD*
+## Disclaimer
+
+This repository is not for suggesting new features, please join our [**Discord Server**](https://mixtape.systems/discord) instead.
 
 ---
 
